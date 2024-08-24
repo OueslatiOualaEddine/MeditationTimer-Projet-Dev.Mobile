@@ -23,9 +23,11 @@ The **Meditation Timer** app is designed to guide users through a calming and fo
 ## Screenshots
 
 - **Welcome Screen:**
+
   <img src="Screenshots/Screenshot_20240824_0054456.png" width="300">
 
 - **Mood Selection:**
+  
   <img src="Screenshots/Screenshot_20240824_005504.png" width="300">
 
 - **Sessions:**
