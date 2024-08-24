@@ -26,13 +26,13 @@ The **Meditation Timer** app is designed to guide users through a calming and fo
   <img src="Screenshots/Screenshot_20240824_0054456.png" width="300">
 
 - **Mood Selection:**
-  <img src="Screenshots/Screenshot_20240824_005446.png" width="300">
+  <img src="Screenshots/Screenshot_20240824_005504.png" width="300">
 
 - **Sessions:**
 
   | Meditate Session                                   | Relax Session                                      | Brain Power Session                                |
   | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-  | <img src="Screenshots/Screenshot_20240824_005504.png" width="300"> | <img src="Screenshots/Screenshot_20240824_005730.png" width="300"> | <img src="Screenshots/Screenshot_20240824_005922.png" width="300"> |
+  | <img src="Screenshots/Screenshot_20240824_005446.png" width="300"> | <img src="Screenshots/Screenshot_20240824_005730.png" width="300"> | <img src="Screenshots/Screenshot_20240824_005922.png" width="300"> |
 
   | Study Session                                      | Sleep Session                                      | Focus Session                                      |
   | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
